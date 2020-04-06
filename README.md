@@ -1,2 +1,2 @@
 # API-mini-project
-Using python and API do retrieve financial data from Quandl. 
+Using python and API to retrieve financial data from Quandl. 
